@@ -27,12 +27,12 @@ A good student workflow:
 | [02 - Credit Risk API](lessons/02-credit-risk-api/README.md) | Home Credit default risk modeling, bureau joins, model validation, FastAPI scoring, tests, and governance | Complete |
 | [03 - Fraud Detection Risk API](lessons/03-fraud-detection-risk-api/README.md) | Home Credit application fraud/risk proxy screening with anomaly detection, supervised classification, decision thresholds, FastAPI, and governance | Complete |
 | [04 - Student Loan Forecasting](lessons/04-student-loan-forecasting/README.md) | Chronological student-loan default forecasting, macro stress scenarios, borrower risk scoring, FastAPI, tests, and governance | Complete |
+| [05 - MLOps SageMaker Churn and CLV](lessons/05-mlops-sagemaker-churn-clv/README.md) | IBM Telco churn modeling, CLV, retention ROI, SageMaker-style registry gates, champion/challenger deployment, PSI drift monitoring, Terraform, and API serving | Complete |
 
 ## Planned Lessons
 
 These lessons can be added using the same format:
 
-- MLOps SageMaker Churn and CLV Platform
 - NYC Taxi Lakehouse and Demand Forecasting
 - NLP Earnings Sentiment API
 
