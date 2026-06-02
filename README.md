@@ -29,12 +29,11 @@ A good student workflow:
 | [04 - Student Loan Forecasting](lessons/04-student-loan-forecasting/README.md) | Chronological student-loan default forecasting, macro stress scenarios, borrower risk scoring, FastAPI, tests, and governance | Complete |
 | [05 - MLOps SageMaker Churn and CLV](lessons/05-mlops-sagemaker-churn-clv/README.md) | IBM Telco churn modeling, CLV, retention ROI, SageMaker-style registry gates, champion/challenger deployment, PSI drift monitoring, Terraform, and API serving | Complete |
 | [06 - NYC Taxi Lakehouse and Demand](lessons/06-nyc-taxi-lakehouse-demand/README.md) | Official NYC TLC taxi data lakehouse ETL, data quality checks, hourly zone-demand marts, weather enrichment, demand forecasting, anomaly detection, API, and tests | Complete |
+| [07 - NLP Earnings Sentiment API](lessons/07-nlp-earnings-sentiment/README.md) | Financial PhraseBank sentiment modeling, TF-IDF plus finance lexicon features, model card, evaluation dashboard, FastAPI sentence/transcript/batch scoring, Docker, and tests | Complete |
 
 ## Planned Lessons
 
-These lessons can be added using the same format:
-
-- NLP Earnings Sentiment API
+These lessons can be added using the same format.
 
 ## Teaching Philosophy
 
