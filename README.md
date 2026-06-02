@@ -31,6 +31,7 @@ A good student workflow:
 | [06 - NYC Taxi Lakehouse and Demand](lessons/06-nyc-taxi-lakehouse-demand/README.md) | Official NYC TLC taxi data lakehouse ETL, data quality checks, hourly zone-demand marts, weather enrichment, demand forecasting, anomaly detection, API, and tests | Complete |
 | [07 - NLP Earnings Sentiment API](lessons/07-nlp-earnings-sentiment/README.md) | Financial PhraseBank sentiment modeling, TF-IDF plus finance lexicon features, model card, evaluation dashboard, FastAPI sentence/transcript/batch scoring, Docker, and tests | Complete |
 | [08 - GitHub Portfolio Packaging](lessons/08-github-portfolio-packaging/README.md) | Recruiter-ready GitHub profile, project READMEs, pinned repo strategy, portfolio website, demo assets, metrics, and resume bullets | Complete |
+| [09 - Resume and Interview Storytelling](lessons/09-resume-interview-storytelling/README.md) | Project-to-resume bullets, one-minute pitches, technical deep dives, STAR stories, job-description alignment, and interview packet practice | Complete |
 
 ## Planned Lessons
 
