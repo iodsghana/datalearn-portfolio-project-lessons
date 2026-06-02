@@ -39,6 +39,7 @@ A good student workflow:
 | [14 - Project Automation Workflows](lessons/14-project-automation-workflows/README.md) | Repeatable project commands, PowerShell task scripts, Makefile patterns, smoke tests, workflow diagrams, README command tables, CI command reuse, and local review checklists | Complete |
 | [15 - Project Review, Debugging, and Targeted Upgrades](lessons/15-project-review-debugging-upgrades/README.md) | Repository inspection, README review, command verification, test failure diagnosis, upgrade prioritization, targeted improvements, final summaries, and interview practice | Complete |
 | [16 - Analytics Storytelling and Stakeholder Memos](lessons/16-analytics-storytelling-stakeholder-memos/README.md) | Executive summaries, metric glossaries, stakeholder memos, findings versus recommendations, uncertainty communication, dashboard narratives, and presentation outlines | Complete |
+| [17 - Technical Interview and Project Defense Lab](lessons/17-technical-interview-project-defense/README.md) | Project defense scripts, SQL drills, Python drills, ML metric questions, API/deployment practice, system design prompts, STAR stories, scorecards, and weekly interview plans | Complete |
 
 ## Planned Lessons
 
