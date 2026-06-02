@@ -41,6 +41,7 @@ A good student workflow:
 | [16 - Analytics Storytelling and Stakeholder Memos](lessons/16-analytics-storytelling-stakeholder-memos/README.md) | Executive summaries, metric glossaries, stakeholder memos, findings versus recommendations, uncertainty communication, dashboard narratives, and presentation outlines | Complete |
 | [17 - Technical Interview and Project Defense Lab](lessons/17-technical-interview-project-defense/README.md) | Project defense scripts, SQL drills, Python drills, ML metric questions, API/deployment practice, system design prompts, STAR stories, scorecards, and weekly interview plans | Complete |
 | [18 - 30-Day Portfolio Capstone Plan](lessons/18-thirty-day-portfolio-capstone-plan/README.md) | Track selection, daily build schedule, weekly deliverables, production-readiness checkpoints, portfolio polish, interview practice, and final portfolio review | Complete |
+| [19 - Data Quality, Validation, and Testing](lessons/19-data-quality-validation-testing/README.md) | Schema checks, missing-value profiles, duplicate detection, range and category validation, leakage scans, quality reports, validation tests, and README documentation | Complete |
 
 ## Planned Lessons
 
