@@ -26,12 +26,12 @@ A good student workflow:
 | [01 - NoSQL Retail Analytics](lessons/01-nosql-retail-analytics/README.md) | MongoDB document modeling, aggregation API, Docker, and tests using real UCI Online Retail data | Complete |
 | [02 - Credit Risk API](lessons/02-credit-risk-api/README.md) | Home Credit default risk modeling, bureau joins, model validation, FastAPI scoring, tests, and governance | Complete |
 | [03 - Fraud Detection Risk API](lessons/03-fraud-detection-risk-api/README.md) | Home Credit application fraud/risk proxy screening with anomaly detection, supervised classification, decision thresholds, FastAPI, and governance | Complete |
+| [04 - Student Loan Forecasting](lessons/04-student-loan-forecasting/README.md) | Chronological student-loan default forecasting, macro stress scenarios, borrower risk scoring, FastAPI, tests, and governance | Complete |
 
 ## Planned Lessons
 
 These lessons can be added using the same format:
 
-- Student Loan Forecasting
 - MLOps SageMaker Churn and CLV Platform
 - NYC Taxi Lakehouse and Demand Forecasting
 - NLP Earnings Sentiment API
