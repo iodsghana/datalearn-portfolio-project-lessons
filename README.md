@@ -32,6 +32,7 @@ A good student workflow:
 | [07 - NLP Earnings Sentiment API](lessons/07-nlp-earnings-sentiment/README.md) | Financial PhraseBank sentiment modeling, TF-IDF plus finance lexicon features, model card, evaluation dashboard, FastAPI sentence/transcript/batch scoring, Docker, and tests | Complete |
 | [08 - GitHub Portfolio Packaging](lessons/08-github-portfolio-packaging/README.md) | Recruiter-ready GitHub profile, project READMEs, pinned repo strategy, portfolio website, demo assets, metrics, and resume bullets | Complete |
 | [09 - Resume and Interview Storytelling](lessons/09-resume-interview-storytelling/README.md) | Project-to-resume bullets, one-minute pitches, technical deep dives, STAR stories, job-description alignment, and interview packet practice | Complete |
+| [10 - Production Readiness, CI, and Deployment Evidence](lessons/10-production-readiness-ci-deployment/README.md) | Tests, health/readiness checks, model metadata, Docker, environment templates, GitHub Actions CI, changelogs, logging, and deployment evidence | Complete |
 
 ## Planned Lessons
 
