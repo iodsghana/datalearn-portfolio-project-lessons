@@ -34,6 +34,7 @@ A good student workflow:
 | [09 - Resume and Interview Storytelling](lessons/09-resume-interview-storytelling/README.md) | Project-to-resume bullets, one-minute pitches, technical deep dives, STAR stories, job-description alignment, and interview packet practice | Complete |
 | [10 - Production Readiness, CI, and Deployment Evidence](lessons/10-production-readiness-ci-deployment/README.md) | Tests, health/readiness checks, model metadata, Docker, environment templates, GitHub Actions CI, changelogs, logging, and deployment evidence | Complete |
 | [11 - Cloud API Deployment and Monitoring](lessons/11-cloud-api-deployment-monitoring/README.md) | Dockerized FastAPI cloud deployment workflow, EC2 notes, runtime configuration, logs, monitoring plan, rollback plan, security notes, and deployment evidence | Complete |
+| [12 - Model Monitoring and Drift Detection](lessons/12-model-monitoring-drift-detection/README.md) | Reference profiles, PSI drift checks, missing-rate monitoring, prediction distribution tracking, alert rules, drift reports, tests, and response playbooks | Complete |
 
 ## Planned Lessons
 
