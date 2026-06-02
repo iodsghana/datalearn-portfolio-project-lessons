@@ -38,6 +38,7 @@ A good student workflow:
 | [13 - Responsible AI and Model Governance](lessons/13-responsible-ai-model-governance/README.md) | Intended and prohibited use, sensitive/proxy feature review, risk registers, bias evaluation, privacy review, model cards, approval checklists, and governance interview practice | Complete |
 | [14 - Project Automation Workflows](lessons/14-project-automation-workflows/README.md) | Repeatable project commands, PowerShell task scripts, Makefile patterns, smoke tests, workflow diagrams, README command tables, CI command reuse, and local review checklists | Complete |
 | [15 - Project Review, Debugging, and Targeted Upgrades](lessons/15-project-review-debugging-upgrades/README.md) | Repository inspection, README review, command verification, test failure diagnosis, upgrade prioritization, targeted improvements, final summaries, and interview practice | Complete |
+| [16 - Analytics Storytelling and Stakeholder Memos](lessons/16-analytics-storytelling-stakeholder-memos/README.md) | Executive summaries, metric glossaries, stakeholder memos, findings versus recommendations, uncertainty communication, dashboard narratives, and presentation outlines | Complete |
 
 ## Planned Lessons
 
