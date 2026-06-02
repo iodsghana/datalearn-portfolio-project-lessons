@@ -35,6 +35,7 @@ A good student workflow:
 | [10 - Production Readiness, CI, and Deployment Evidence](lessons/10-production-readiness-ci-deployment/README.md) | Tests, health/readiness checks, model metadata, Docker, environment templates, GitHub Actions CI, changelogs, logging, and deployment evidence | Complete |
 | [11 - Cloud API Deployment and Monitoring](lessons/11-cloud-api-deployment-monitoring/README.md) | Dockerized FastAPI cloud deployment workflow, EC2 notes, runtime configuration, logs, monitoring plan, rollback plan, security notes, and deployment evidence | Complete |
 | [12 - Model Monitoring and Drift Detection](lessons/12-model-monitoring-drift-detection/README.md) | Reference profiles, PSI drift checks, missing-rate monitoring, prediction distribution tracking, alert rules, drift reports, tests, and response playbooks | Complete |
+| [13 - Responsible AI and Model Governance](lessons/13-responsible-ai-model-governance/README.md) | Intended and prohibited use, sensitive/proxy feature review, risk registers, bias evaluation, privacy review, model cards, approval checklists, and governance interview practice | Complete |
 
 ## Planned Lessons
 
