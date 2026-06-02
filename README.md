@@ -24,12 +24,12 @@ A good student workflow:
 | Lesson | Project Built | Status |
 | --- | --- | --- |
 | [01 - NoSQL Retail Analytics](lessons/01-nosql-retail-analytics/README.md) | MongoDB document modeling, aggregation API, Docker, and tests using real UCI Online Retail data | Complete |
+| [02 - Credit Risk API](lessons/02-credit-risk-api/README.md) | Home Credit default risk modeling, bureau joins, model validation, FastAPI scoring, tests, and governance | Complete |
 
 ## Planned Lessons
 
 These lessons can be added using the same format:
 
-- Credit Risk API with Home Credit data
 - Fraud Detection with Home Credit data
 - Student Loan Forecasting
 - MLOps SageMaker Churn and CLV Platform
